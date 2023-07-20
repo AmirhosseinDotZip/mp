@@ -1,6 +1,7 @@
 import { CharacterDataWrapper } from '@/types/marvels'
 import md5 from 'md5'
 
+// non important info below
 const API_BASE_URL="https://gateway.marvel.com/v1/public"
 const API_PUBLIC_KEY="37a5ab36ead555e33fd735675d629ed1"
 const API_PRIVATE_KEY="768def5740079cd5709821849305946dfab6653d"
